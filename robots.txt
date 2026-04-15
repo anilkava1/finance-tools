@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Allow: /js/
+Allow: /css/
+Allow: /partials/
+
+# Sitemap ka sahi link yahan hai
+Sitemap:https://trade-matric.netlify.app/sitemap.xml
