@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://trade-matric.netlify.app/</loc>
+    <loc>https://anilkava1.github.io/finance-tools/</loc>
     <lastmod>2026-04-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
-    <loc>https://trade-matric.netlify.app/#options</loc>
+    <loc>https:https://anilkava1.github.io/finance-tools/#options</loc>
     <lastmod>2026-04-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://trade-matric.netlify.app/#crypto</loc>
+    <loc>https://anilkava1.github.io/finance-tools/#crypto</loc>
     <lastmod>2026-04-15</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://trade-matric.netlify.app/#sip</loc>
+    <loc>https://anilkava1.github.io/finance-tools/#sip</loc>
     <lastmod>2026-04-15</lastmod>
     <priority>0.8</priority>
   </url>
