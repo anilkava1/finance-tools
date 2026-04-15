@@ -5,4 +5,4 @@ Allow: /css/
 Allow: /partials/
 
 # Sitemap ka sahi link yahan hai
-Sitemap:https://trade-matric.netlify.app/sitemap.xml
+Sitemap:https://anilkava1.github.io/finance-tools/sitemap.xml
