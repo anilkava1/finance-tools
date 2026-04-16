@@ -3,12 +3,10 @@
   <url>
     <loc>https://anilkava1.github.io/finance-tools/</loc>
     <lastmod>2026-04-15</lastmod>
-    <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
-  
   <url>
-    <loc>https:https://anilkava1.github.io/finance-tools/#options</loc>
+    <loc>https://anilkava1.github.io/finance-tools/#options</loc>
     <lastmod>2026-04-15</lastmod>
     <priority>0.8</priority>
   </url>
